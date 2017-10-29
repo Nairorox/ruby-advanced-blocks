@@ -11,7 +11,7 @@ def bubble_sort array
         end
       end
       if flag == false
-      return  puts array
+        return  puts array
       end
   end
 end
